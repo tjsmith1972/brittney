@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hh6rHOl127U=",
+  "success": true,
+  "projectFilePath": "/Users/tj/repos/brittney/brittney.csproj",
+  "expectedPackageFiles": [
+    "/Users/tj/.nuget/packages/system.speech/9.0.6/system.speech.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

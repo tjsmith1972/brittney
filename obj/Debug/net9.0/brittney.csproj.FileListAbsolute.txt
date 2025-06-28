@@ -1,0 +1,5 @@
+/Users/tj/repos/brittney/obj/Debug/net9.0/brittney.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/repos/brittney/obj/Debug/net9.0/brittney.AssemblyInfoInputs.cache
+/Users/tj/repos/brittney/obj/Debug/net9.0/brittney.AssemblyInfo.cs
+/Users/tj/repos/brittney/obj/Debug/net9.0/brittney.csproj.CoreCompileInputs.cache
+/Users/tj/repos/brittney/obj/Debug/net9.0/brittney.csproj.AssemblyReference.cache
